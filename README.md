@@ -8,10 +8,10 @@ My core toolkit is built around Next.js and the MERN stack, often paired with Py
 
 ### Currently I’m Learning & Building
 
--   **RAG & LLM Integration** (Building assistants like Docent AI) [cite: 21]
--**3D Graphics & WebGL** (Three.js & React Three Fiber) [cite: 15]
-- **Real-time Communication** (WebSockets & Live Data Streaming) [cite: 14]
-- **Advanced Next.js 15 Patterns** (Server Actions & optimization) [cite: 21]
+-   **RAG & LLM Integration** 
+-**3D Graphics & WebGL** 
+- **Real-time Communication** 
+- **Advanced Next.js 15 Patterns** 
 
 ---
 
